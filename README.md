@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 📝 I regularly write articles on [http://muratgul.tk](http://muratgul.tk)
+- 📝 I regularly write articles on [http://muratgul.site](http://muratgul.site)
 
 - 📫 How to reach me **muratgul@gmail.com**
 
